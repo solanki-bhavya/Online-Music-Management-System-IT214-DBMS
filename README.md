@@ -112,6 +112,7 @@
   <li> Relational Model(Schema of all the Relations),</li>
   <li> DDL scripts of all tables,</li>
   <li> Normalization and Schem Refinement Document,</li>
-  <li> SQL Queries on given normalized schema, and</li>
+  <li> Dummy Test Data to Check Implementation in PostgresSQL,</li>
+  <li> SQL Queries and its results on dummy data, and</li>
   <li> Final Project Document. </li>
 </ul>
