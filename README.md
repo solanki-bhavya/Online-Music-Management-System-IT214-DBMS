@@ -111,7 +111,7 @@
   <li> Relational Diagram,</li>
   <li> Relational Model(Schema of all the Relations),</li>
   <li> DDL scripts of all tables,</li>
-  <li> Normalization and Schem Refinement Document,</li>
+  <li> Normalization and Schema Refinement Document,</li>
   <li> Dummy Test Data to Check Implementation in PostgresSQL,</li>
   <li> SQL Queries and its results on dummy data, and</li>
   <li> Final Project Document. </li>

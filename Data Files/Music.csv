@@ -1,0 +1,501 @@
+Music_ID,Music_Name,Music_Language,Premium_Information,Views,Likes,Music_Type,Artist_ID,Album_ID
+1,Flashdance...What A Feeling,Romanian,TRUE,23681791,29772458,Latin,52,69
+2,Mentirosa,Tamil,TRUE,13397424,22336553,Baroque,41,69
+3,Every Breath You Take,Turkish,TRUE,12702512,41246651,Latin,29,7
+4,Demons,Serbo-Croatian,FALSE,70809651,36163732,Latin,85,62
+5,Familiar,Polish,FALSE,70929967,28086316,Techno,56,4
+6,Cheri cheri lady,Polish,TRUE,5563525,95258941,Dubstep,58,43
+7,Livin la vida loca,French,FALSE,62721593,55140963,Jazz,103,43
+8,Shadow Dancing,Serbo-Croatian,TRUE,38012157,32275090,House,60,42
+9,Corazon,Polish,FALSE,47758510,42219367,Drum & Bass,69,20
+10,We are young,Hindi,FALSE,65607905,75099000,Jazz,15,40
+11,Eye Of The Tiger,Persian,FALSE,41585442,17947062,Hip-Hop,30,52
+12,Foolish Games,Amharic,TRUE,36481253,28585547,Hip-Hop,78,67
+13,Tonights The Night,Hakka,TRUE,20642437,18402396,Country,16,60
+14,Cant touch this,Fula,TRUE,71923189,75040357,Baroque,88,58
+15,Foolish Games,Portuguese,TRUE,40036595,52711666,Hip-Hop,41,46
+16,I Just Want To Be Your Everything,Hakka,FALSE,8842410,92868697,Baroque,104,2
+17,Sorry seems to be the hardest word,Greek,TRUE,22864718,92884675,Pop,38,25
+18,Corazon,Malaysian,FALSE,76695614,69066986,Techno,101,38
+19,Cest la vie,Uyghur,TRUE,51971854,13748096,Baroque,39,5
+20,We are young,Turkish,TRUE,64500899,37122615,Country,93,3
+21,Endless Loves,Malaysian,FALSE,16703123,84387011,Techno,90,65
+22,Mercy ,Turkish,FALSE,7873000,3041175,Drum & Bass,99,69
+23,Nah neh nah,Mandarin,TRUE,95499509,69328239,Dubstep,95,60
+24,Kiss Kiss,Arabic,FALSE,25834558,19065316,Reggae,103,55
+25,I want to break free,Sindhi,FALSE,23086499,94492806,House,70,70
+26,Un-Break My Heart,Italian,TRUE,46696463,70156998,Baroque,4,41
+27,Cheri cheri lady,Yue,FALSE,17994289,48017173,Pop,37,75
+28,I want to break free,Hindi,FALSE,45400463,50921752,Techno,72,54
+29,Bailando,Azerbaijani,TRUE,95753299,28364569,Reggae,105,63
+30,Dance dance,Bhojpuri,TRUE,97416333,35080180,Dubstep,10,71
+31,Yeah!,Sundanese,FALSE,37496918,65754012,House,27,51
+32,Smooth,Amharic,TRUE,12323833,82815462,Hip-Hop,45,43
+33,The Twist,Arabic,TRUE,80696956,78126753,Blues,28,5
+34,Every Breath You Take,German,TRUE,83025661,9713879,Soul,69,13
+35,La gozadera,Punjabi,TRUE,96704202,7014963,Baroque,7,71
+36,I Will Always Love You,Hindi,FALSE,95139745,3745345,Latin,1,26
+37,Let Me Love You,Chittagonian,FALSE,97063238,66044282,Baroque,18,22
+38,Just one last dance,Malaysian,TRUE,44548800,13613818,Dubstep,61,28
+39,How Do I Live,English,FALSE,83102803,9873391,Dubstep,53,57
+40,Rolling In The Deep,Yue,TRUE,94975854,84965445,Baroque,3,75
+41,Sway,Bengali,TRUE,84363694,44256990,Reggae,55,35
+42,Every Breath You Take,Yue,FALSE,62845415,76242485,Drum & Bass,87,18
+43,Its not goodbye,Vietnamese,FALSE,55608130,46228003,Hip-Hop,27,60
+44,Party Rock Anthem,Uzbek,TRUE,84893954,12116381,Jazz,47,74
+45,Mercy ,Sundanese,TRUE,84147441,82033923,Reggae,99,2
+46,Shadow Dancing,Persian,TRUE,28133432,76729927,Latin,107,53
+47,Jai HO,Persian,FALSE,98690850,4358835,Opera,57,3
+48,Baila Morena,Yue,FALSE,27181261,1852615,Drum & Bass,36,47
+49,Eye Of The Tiger,Swedish,TRUE,22229845,37970405,Hard Rock,45,41
+50,Nobody wants to be lonely,Chittagonian,FALSE,53082812,17443780,Hard Rock,3,68
+51,Physical,French,FALSE,19659663,52590199,Dubstep,101,71
+52,Le Freak,Mandarin,TRUE,1271183,64370889,Drum & Bass,1,24
+53,Mack The Knife,Urdu,TRUE,6938610,65008302,House,35,4
+54,Cest la vie,Yoruba,FALSE,80310523,88803843,Hard Rock,93,7
+55,Foolish Games,Mandarin,TRUE,6837062,81791826,Hip-Hop,10,71
+56,Party Rock Anthem,Spanish,TRUE,17988217,17000056,Dubstep,96,22
+57,Beat it,Spanish,TRUE,79605714,6978548,Hard Rock,27,31
+58,Alors on dance,Japanese,FALSE,37316426,39851739,Hip-Hop,6,1
+59,Candyman,Italian,FALSE,45833848,55638581,Pop,54,35
+60,Just one last dance,French,TRUE,37979740,55719210,Hip-Hop,94,9
+61,Its not goodbye,Polish,FALSE,61882394,6480852,Country,2,63
+62,Demons,Swedish,FALSE,2152491,45334656,Reggae,59,47
+63,Sway,German,FALSE,46211007,17518900,Dubstep,79,23
+64,Its my life,Korean,TRUE,11824452,64039858,Pop,92,37
+65,Beggin,Tamil,TRUE,64576443,57163272,Dubstep,102,21
+66,How Do I Live,Arabic,FALSE,87299851,49257235,Opera,1,43
+67,Mentirosa,Swedish,FALSE,35557470,30011266,Dubstep,101,63
+68,Le Freak,Chittagonian,FALSE,58811955,55519106,Pop,22,6
+69,Bette Davis Eyes,French,FALSE,87915280,60813514,Pop,6,59
+70,Its not goodbye,Tamil,FALSE,78663053,91329563,Latin,88,23
+71,I Just Want To Be Your Everything,French,TRUE,95322940,70223370,Opera,20,39
+72,Despacito,Bengali,FALSE,31322993,59125371,Soul,77,60
+73,We Belong Together,Malaysian,FALSE,53723477,37417165,Blues,103,39
+74,Alors on dance,Arabic,TRUE,72893658,64386363,Hip-Hop,98,12
+75,Endless Loves,Sundanese,TRUE,60883875,18536473,Jazz,40,26
+76,Its my life,Greek,FALSE,32374190,26966515,House,20,68
+77,Hit the road jack,Uyghur,TRUE,46425906,82119187,Baroque,99,27
+78,Andalouse,German,TRUE,31522384,39686039,Dubstep,93,37
+79,How you remind me,Korean,FALSE,4483739,24186816,Blues,66,72
+80,Highway to hell,Italian,FALSE,78248164,88455480,Drum & Bass,26,68
+81,Tonights The Night,German,TRUE,67129707,55480196,Dubstep,36,13
+82,YMCA,Portuguese,TRUE,98242300,92542434,Country,101,24
+83,Smooth,Polish,TRUE,79418480,87032704,Hip-Hop,71,57
+84,Yeah!,Bhojpuri,FALSE,11372715,50890822,Hip-Hop,50,27
+85,No One,Pashto,TRUE,19500174,58242972,Hip-Hop,100,69
+86,Un-Break My Heart,Swedish,FALSE,47289594,48810362,Drum & Bass,3,3
+87,Its my life,Malaysian,TRUE,13303662,67908674,Dubstep,3,5
+88,Dance dance,Wu,FALSE,90964803,6616052,Jazz,71,36
+89,Cant touch this,Spanish,TRUE,50503545,93855462,House,79,41
+90,You Light Up My Life,Belarusian,TRUE,17156211,71865538,Hip-Hop,28,55
+91,YMCA,Somali,FALSE,5583042,8699840,Baroque,73,39
+92,Flashdance...What A Feeling,Russian,FALSE,45660973,88345533,Country,92,70
+93,Let me entertain you,French,FALSE,22592353,61060013,Opera,10,3
+94,Truly Madly Deeply,Hakka,TRUE,64513446,79330925,Latin,37,28
+95,Brasil,Tamil,FALSE,70886874,87486517,Drum & Bass,42,74
+96,I want to break free,English,TRUE,88183555,9330317,Baroque,70,60
+97,Physical,Chinese,TRUE,77452152,1692555,Country,14,8
+98,Jailhouse rock,Gan Chinese,TRUE,56539815,1337625,Country,78,41
+99,Truly Madly Deeply,Bengali,TRUE,30636749,73650752,Hip-Hop,6,33
+100,Knocking on heavens door,Mandarin,FALSE,11241172,40718145,Jazz,100,34
+101,Brasil,Hakka,FALSE,6657420,72221514,Techno,37,63
+102,Move to Miami,Mandarin,TRUE,55839538,27022144,Latin,104,42
+103,Its my life,Tamil,FALSE,80658483,68428013,Soul,6,3
+104,More than you know,Swedish,FALSE,82791652,39237911,Country,75,5
+105,Eye Of The Tiger,Azerbaijani,TRUE,48972385,56784439,Drum & Bass,88,12
+106,Demons,Polish,TRUE,55085165,70505613,Opera,18,55
+107,Kiss Kiss,Thai,FALSE,83372518,4157699,Blues,82,40
+108,Livin la vida loca,Pashto,FALSE,2297597,34255538,Opera,48,34
+109,Listen to your heart,Urdu,TRUE,38253250,13262837,Opera,106,9
+110,Party Rock Anthem,Nepali,FALSE,92564889,49252929,Opera,36,14
+111,I wanna dance with somebody,English,FALSE,30250348,66892828,Latin,3,20
+112,Walking on sunshine,Uzbek,FALSE,13851965,27066456,House,87,32
+113,Rolling In The Deep,Fula,FALSE,32814849,31514853,House,64,57
+114,Endless Summer,Romanian,TRUE,2883015,26198692,Latin,4,73
+115,Endless Summer,German,FALSE,84522251,91488195,Hip-Hop,84,48
+116,Yeah!,Persian,TRUE,96579429,45231594,Latin,90,73
+117,Tonights The Night,Malaysian,FALSE,8627467,44430398,Country,94,57
+118,Familiar,Czech,TRUE,43968305,78555099,Hard Rock,107,22
+119,Lady,Russian,TRUE,6740506,30550026,Hard Rock,55,14
+120,Alors on dance,Pashto,TRUE,39413530,52398145,Drum & Bass,32,20
+121,Eye Of The Tiger,Assamese,FALSE,81992778,23001722,Hard Rock,56,8
+122,Lean on,Chinese,FALSE,6299780,94067070,Soul,91,28
+123,Party Rock Anthem,Uyghur,TRUE,39337276,80566858,House,71,18
+124,Demons,Pashto,TRUE,1216775,2982148,Opera,25,21
+125,Knocking on heavens door,Persian,TRUE,67402811,16689362,Hip-Hop,7,14
+126,Dance dance,French,TRUE,57248804,2374024,Dubstep,26,23
+127,Mack The Knife,Hungarian,FALSE,55550119,79306180,Pop,49,47
+128,Move to Miami,Greek,FALSE,80521106,49221951,Opera,8,65
+129,Cheap thrills,Turkish,FALSE,492108,28522568,Hip-Hop,22,57
+130,Familiar,Bhojpuri,TRUE,86257933,3840967,Blues,24,37
+131,Physical,Uzbek,FALSE,42058336,1071779,Reggae,52,49
+132,Sexy and I know it,Pashto,FALSE,58046589,28664187,Jazz,74,3
+133,How Deep Is Your Love,Vietnamese,FALSE,36122120,93581253,Jazz,1,32
+134,Mercy ,Italian,FALSE,14290276,5219201,Techno,62,28
+135,How you remind me,Arabic,FALSE,32937231,8346789,Drum & Bass,91,63
+136,Physical,Vietnamese,FALSE,84871301,94727452,Drum & Bass,51,50
+137,I Gotta Feeling,Yue,FALSE,15881469,1675181,Latin,60,72
+138,We are young,Nepali,FALSE,29961805,2923246,Soul,64,67
+139,Hit the road jack,Czech,FALSE,88822642,63187308,Soul,102,18
+140,Let me entertain you,Chittagonian,FALSE,7412402,71204066,Hip-Hop,51,60
+141,Beat it,Punjabi,FALSE,23302465,60623918,Dubstep,38,39
+142,Strongest,Turkish,TRUE,8075348,63845731,Techno,86,63
+143,Jailhouse rock,Ukrainian,FALSE,9135662,40649681,Techno,3,45
+144,Brasil,Polish,FALSE,77451284,67053558,Opera,26,75
+145,I wanna dance with somebody,German,TRUE,3989005,15789698,Soul,31,34
+146,Cheap thrills,Swedish,FALSE,95764980,18725129,Pop,64,37
+147,Endless Loves,Somali,FALSE,7605215,17086490,Soul,42,50
+148,No One,Greek,FALSE,85020150,29360857,Techno,91,28
+149,Hey Jude,Uzbek,TRUE,42775363,48829112,House,73,68
+150,Yeah!,Sundanese,FALSE,71404774,53814071,Blues,44,75
+151,Pump it,Ukrainian,TRUE,32257222,66977197,Hip-Hop,89,12
+152,You Light Up My Life,Arabic,TRUE,57063202,99855120,Dubstep,16,70
+153,Strongest,Turkish,TRUE,767998,31862633,Hip-Hop,1,52
+154,Por una cabeza,Serbo-Croatian,FALSE,62472027,79721960,Reggae,14,68
+155,Physical,Urdu,FALSE,65925920,24376006,Opera,75,21
+156,Yeah!,Fula,FALSE,9403881,68351583,Blues,97,70
+157,Flashdance...What A Feeling,Bhojpuri,FALSE,86434344,54807722,Dubstep,73,1
+158,Alors on dance,Bhojpuri,TRUE,76451842,43721461,Hip-Hop,38,11
+159,Jailhouse rock,Uzbek,TRUE,63338303,74589194,Opera,74,25
+160,Shadow Dancing,Romanian,TRUE,91568325,55643266,Pop,1,43
+161,Jai HO,Japanese,FALSE,14528144,80844570,Jazz,38,59
+162,More than you know,Swedish,FALSE,59832536,87148952,Hard Rock,91,12
+163,The Twist,Korean,FALSE,50653120,71415872,Baroque,19,69
+164,No One,Sundanese,FALSE,30895762,74949863,House,48,55
+165,Despacito,Thai,FALSE,63736365,97212407,Jazz,36,1
+166,Bette Davis Eyes,Hungarian,FALSE,6031392,46334186,Blues,49,4
+167,Flashdance...What A Feeling,English,FALSE,9263737,8305613,Opera,91,55
+168,YMCA,Gan Chinese,FALSE,26264793,37117209,Country,3,69
+169,Beat it,Gan Chinese,TRUE,78226752,17015918,Jazz,20,64
+170,Lady,Yue,TRUE,9700153,32240324,Blues,48,66
+171,Wake me up before you gogo,Czech,TRUE,25280837,90118184,Soul,69,12
+172,Beat it,Belarusian,TRUE,65233909,2352611,Blues,69,59
+173,Mack The Knife,Belarusian,TRUE,16273978,13574788,Reggae,94,15
+174,Cant touch this,Nepali,FALSE,26842929,81571331,House,44,39
+175,How Deep Is Your Love,Gan Chinese,FALSE,52369065,12875142,House,3,67
+176,Cheri cheri lady,Yue,FALSE,13610739,19122560,Opera,89,5
+177,Moves like Jagger,Azerbaijani,FALSE,29361973,29737504,Baroque,79,32
+178,Shadow Dancing,Chinese,TRUE,88406195,38710095,Soul,36,37
+179,YMCA,Dutch,TRUE,71429463,90509161,Blues,71,62
+180,Le Freak,Persian,FALSE,32956317,12644082,House,1,59
+181,We Belong Together,Serbo-Croatian,TRUE,92222236,24582882,Blues,23,45
+182,Billionaire,Polish,FALSE,40815120,83377770,Hip-Hop,54,22
+183,I Just Want To Be Your Everything,Russian,FALSE,68493820,75437232,Blues,17,5
+184,Beat it,Swedish,FALSE,36918959,77683060,Dubstep,33,19
+185,Truly Madly Deeply,Yoruba,FALSE,47877840,28191373,Dubstep,26,39
+186,Tik Tok,Mandarin,FALSE,16415221,56724388,Jazz,106,66
+187,I dont wanna missa thing,Romanian,TRUE,7272587,22587519,Baroque,3,7
+188,Party Rock Anthem,Belarusian,FALSE,55708119,83010553,Latin,88,13
+189,Hey Jude,Gan Chinese,FALSE,67593272,44475659,Country,1,5
+190,Lets Get It On,Punjabi,FALSE,57138334,96652329,Hard Rock,53,75
+191,These boots are made for walking,Fula,FALSE,55588892,55139356,Jazz,2,31
+192,Lady,Hungarian,FALSE,25102987,72452575,Reggae,74,35
+193,How you remind me,Uyghur,FALSE,26065587,56113685,Baroque,47,31
+194,Kiss Kiss,Japanese,FALSE,22963805,92667488,Dubstep,13,58
+195,I wanna dance with somebody,Swedish,TRUE,42194618,89663189,Jazz,66,16
+196,Just one last dance,Bengali,FALSE,84034227,30336772,House,37,10
+197,Cant touch this,Persian,FALSE,98901126,26318266,Jazz,46,30
+198,Shadow Dancing,Sundanese,TRUE,75818425,96598522,House,52,51
+199,Sexy and I know it,French,TRUE,2563718,83344269,Jazz,60,8
+200,How you remind me,Dutch,FALSE,27784215,76210195,Techno,11,36
+201,Move to Miami,Wu,TRUE,99301067,25065411,Blues,55,23
+202,Jailhouse rock,Malaysian,FALSE,35257814,92432416,Latin,27,38
+203,Lets Get It On,Vietnamese,TRUE,35317914,3657716,Baroque,32,4
+204,Getting over you,Assamese,FALSE,75307073,26434874,Hip-Hop,68,30
+205,Endless Loves,Vietnamese,FALSE,83037217,86903229,Opera,46,27
+206,Endless Loves,Fula,TRUE,37896357,81662113,Jazz,20,39
+207,Its not goodbye,Korean,TRUE,89078387,23540621,House,47,11
+208,Strongest,Vietnamese,TRUE,14997440,50521748,House,5,10
+209,You Light Up My Life,Russian,FALSE,5566622,55169014,Dubstep,69,25
+210,Endless Loves,Punjabi,TRUE,62554776,56003113,Pop,26,13
+211,Beggin,Assamese,TRUE,80130126,67557402,House,17,53
+212,Hey Jude,Uzbek,FALSE,482281,86713349,Baroque,91,52
+213,How you remind me,Ukrainian,TRUE,75940647,30049514,Blues,103,64
+214,Bette Davis Eyes,Yoruba,FALSE,23600368,83293031,Latin,63,70
+215,Alors on dance,Malaysian,FALSE,38969831,26448710,Jazz,49,6
+216,Familiar,German,TRUE,39039353,42975124,Drum & Bass,49,14
+217,We are young,Romanian,TRUE,93209588,35361211,Opera,93,60
+218,Pump it,Bhojpuri,TRUE,52330553,30150970,Pop,94,48
+219,I want to break free,Russian,TRUE,41847487,4388774,Dubstep,46,11
+220,Physical,English,TRUE,9844215,50616415,Techno,45,15
+221,These boots are made for walking,Spanish,FALSE,60973767,55263116,Drum & Bass,62,12
+222,I want to break free,Pashto,TRUE,62010097,26229723,Pop,83,75
+223,Lean on,Punjabi,TRUE,37230493,25605290,Country,14,52
+224,Macarena,Assamese,TRUE,86830723,62216019,House,31,45
+225,Let Me Love You,Japanese,FALSE,3253105,82892958,Jazz,9,70
+226,Sexy and I know it,Romanian,TRUE,60960420,22886852,Latin,94,19
+227,Bailando,Vietnamese,FALSE,51854285,75600162,Country,101,50
+228,Un-Break My Heart,Arabic,FALSE,43371663,89656826,Reggae,57,61
+229,Un-Break My Heart,Bhojpuri,TRUE,48074375,10171496,House,18,6
+230,Familiar,Azerbaijani,TRUE,3235270,19615227,Opera,50,75
+231,You are the one that I want,Dutch,TRUE,75775936,341797,House,90,14
+232,Strongest,Yoruba,TRUE,43060521,45104758,Drum & Bass,4,59
+233,How Do I Live,Belarusian,FALSE,58801602,41119023,Soul,17,73
+234,These boots are made for walking,Swedish,FALSE,87418740,15283971,Pop,51,47
+235,Demons,Yue,FALSE,39601297,55178136,House,87,29
+236,Lets Get It On,German,TRUE,94195846,84674634,Reggae,67,20
+237,Strongest,Assamese,TRUE,16730414,5598439,Pop,63,65
+238,Mad Love,Mandarin,TRUE,30743468,16146547,Hard Rock,4,71
+239,How Do I Live,Spanish,TRUE,63840226,45762777,Drum & Bass,24,70
+240,Kiss Kiss,Thai,FALSE,20379070,75457745,Jazz,14,74
+241,Wake me up,Somali,FALSE,3536867,56637831,Baroque,61,6
+242,Let Me Love You,Amharic,FALSE,36752186,71853212,Opera,23,64
+243,Moves like Jagger,Swedish,TRUE,57117317,23810150,Hard Rock,87,16
+244,(Everything I Do) I Do It For You,Fula,FALSE,96561427,8964969,Soul,11,11
+245,Call Me Maybe,Thai,TRUE,81679563,93554208,Hard Rock,40,30
+246,Bailando,Pashto,TRUE,12583726,59017816,Latin,22,55
+247,How Deep Is Your Love,Persian,FALSE,5618113,95865920,Techno,79,8
+248,I wanna dance with somebody,Yue,TRUE,14822373,35626134,Techno,105,64
+249,Let Me Love You,Serbo-Croatian,FALSE,63816805,26755507,Soul,98,14
+250,Lean on,Czech,TRUE,81311216,56981990,Reggae,67,4
+251,Kiss Kiss,Romanian,FALSE,15296491,35405804,Country,20,38
+252,Mad Love,Wu,TRUE,12274299,85660631,Jazz,4,9
+253,Endless Loves,Tamil,TRUE,68392762,54591646,Techno,49,37
+254,Uptown Funk!,Czech,FALSE,9867020,69605830,Pop,57,65
+255,We Belong Together,Thai,TRUE,13530495,50856058,Latin,53,15
+256,Truly Madly Deeply,Yue,TRUE,13102952,11686957,House,35,8
+257,Bette Davis Eyes,Polish,FALSE,297662,78645228,Hard Rock,54,49
+258,Its my life,Hungarian,FALSE,50563248,31456404,Blues,87,32
+259,Mambo No. 5,Pashto,TRUE,75851687,29154049,Pop,66,47
+260,Wake me up,Italian,TRUE,74300415,27075080,Baroque,40,18
+261,Lemon,Ukrainian,TRUE,95505756,55700371,Opera,8,19
+262,Nah neh nah,Bengali,TRUE,90215104,69828933,Hard Rock,94,49
+263,Hero,Vietnamese,TRUE,69429280,85495653,Techno,87,70
+264,Lady,Polish,FALSE,7842803,97889211,House,41,33
+265,Beat it,Azerbaijani,FALSE,68704011,81006453,Latin,93,7
+266,Mad Love,Turkish,TRUE,1093493,52837504,Reggae,99,7
+267,Every Breath You Take,Gan Chinese,FALSE,39973253,80574625,Reggae,42,73
+268,You Light Up My Life,Somali,FALSE,81486077,59511946,Hard Rock,30,64
+269,(Everything I Do) I Do It For You,Persian,FALSE,81206577,489683,Hip-Hop,89,11
+270,Jai HO,Pashto,FALSE,17529845,40839588,House,43,33
+271,You Light Up My Life,Hindi,FALSE,66118534,320468,Hard Rock,68,43
+272,Cheap thrills,Nepali,TRUE,46397469,3197014,Country,53,28
+273,Mentirosa,Gan Chinese,TRUE,59739550,4560009,Blues,10,49
+274,Sexy and I know it,Hungarian,TRUE,37596686,32865047,Jazz,60,2
+275,Nobody wants to be lonely,Arabic,TRUE,75937262,74914276,Drum & Bass,91,69
+276,Tik Tok,Thai,TRUE,98575179,31471178,Soul,12,72
+277,Demons,Punjabi,FALSE,10220209,68857667,Latin,41,53
+278,Cheri cheri lady,Greek,TRUE,39312483,58720681,Jazz,26,22
+279,Livin la vida loca,Czech,TRUE,63636085,5275156,House,66,60
+280,Move to Miami,Mandarin,FALSE,95633459,80221689,Blues,36,9
+281,Cheap thrills,Pashto,FALSE,34769087,44041095,Dubstep,36,11
+282,Le Freak,Bengali,FALSE,15747876,43732081,Dubstep,36,3
+283,Strongest,Nepali,TRUE,46113410,85124583,Opera,97,16
+284,How you remind me,Uyghur,FALSE,49558798,50081064,Dubstep,97,49
+285,Its not goodbye,Russian,TRUE,14833502,81714307,Pop,92,2
+286,Lemon,Urdu,FALSE,75919638,72534646,Dubstep,39,1
+287,Hit the road jack,Spanish,FALSE,78322530,58120135,Pop,29,3
+288,I wanna dance with somebody,Chittagonian,TRUE,46499197,80776684,Latin,70,45
+289,Eye Of The Tiger,Urdu,FALSE,38085589,56311796,Hip-Hop,24,72
+290,Moves like Jagger,Dutch,TRUE,48149472,84916654,Hip-Hop,51,69
+291,YMCA,Ukrainian,TRUE,23985584,31511086,Blues,8,29
+292,Foolish Games,Czech,TRUE,57651465,91644902,Soul,23,52
+293,Truly Madly Deeply,Belarusian,FALSE,36466097,55226672,Hard Rock,48,51
+294,Let me entertain you,Yoruba,TRUE,7806309,93924370,House,20,30
+295,Its my life,Sindhi,FALSE,17113027,19888168,Dubstep,30,21
+296,Just one last dance,Hakka,TRUE,70443017,57089829,Drum & Bass,4,59
+297,Tik Tok,Chittagonian,TRUE,81711223,77563774,Blues,39,49
+298,We Belong Together,French,FALSE,15729516,50317196,Hard Rock,48,1
+299,Por una cabeza,German,TRUE,85306670,54032392,Country,53,24
+300,Party Rock Anthem,Thai,TRUE,3084144,38387062,House,12,30
+301,Walking on sunshine,Hindi,FALSE,69624706,2831178,Soul,67,50
+302,These boots are made for walking,German,TRUE,24420709,20487024,Blues,83,23
+303,Highway to hell,Greek,FALSE,35219388,83500205,Hip-Hop,26,20
+304,Cheri cheri lady,Pashto,TRUE,68089365,3818205,Baroque,28,35
+305,Strongest,Yue,TRUE,66893137,20660925,House,105,24
+306,Nah neh nah,Yoruba,TRUE,33770202,5980115,Jazz,13,49
+307,Lean on,Portuguese,TRUE,79546798,71017836,House,60,71
+308,Mack The Knife,Hakka,FALSE,58885418,30571307,Hard Rock,67,28
+309,Nobody wants to be lonely,Hakka,TRUE,39699911,8252193,Blues,11,26
+310,Mambo No. 5,Italian,TRUE,68017448,2984223,Pop,22,38
+311,Lean on,Fula,TRUE,26917993,38123912,Dubstep,80,7
+312,You are the one that I want,Thai,TRUE,68096930,79790445,Soul,1,50
+313,I wanna dance with somebody,Japanese,TRUE,53766592,85198105,Reggae,60,17
+314,Por una cabeza,Hungarian,FALSE,99258050,491853,Pop,98,52
+315,Lean on,Malaysian,FALSE,88599880,58082801,Soul,106,36
+316,Corazon,Gan Chinese,FALSE,98780875,2506476,Dubstep,58,18
+317,Bailando,Thai,FALSE,24604546,50869547,Drum & Bass,70,46
+318,Hit the road jack,Wu,TRUE,76564932,28198807,House,10,28
+319,Physical,Arabic,TRUE,35021756,12356013,Blues,9,15
+320,Macarena,Serbo-Croatian,FALSE,54483876,56888793,Techno,22,20
+321,Wake me up,French,TRUE,91835451,73503277,Drum & Bass,20,51
+322,Macarena,Bhojpuri,FALSE,44929504,75197325,Jazz,22,2
+323,Kiss Kiss,Portuguese,FALSE,63931848,6217892,Hip-Hop,12,45
+324,Jai HO,French,FALSE,59314001,89953211,Blues,5,22
+325,Demons,Amharic,FALSE,32717852,47253642,Hip-Hop,69,40
+326,Tonights The Night,Swedish,FALSE,47105195,9520960,Drum & Bass,47,44
+327,Truly Madly Deeply,Chinese,FALSE,79328238,76628989,Techno,21,67
+328,Strongest,Swedish,TRUE,78083273,21457473,Techno,83,53
+329,Mambo No. 5,Chinese,TRUE,41289925,53451444,Pop,60,5
+330,Un-Break My Heart,Bengali,TRUE,37672055,63699310,Drum & Bass,54,28
+331,Cest la vie,Vietnamese,TRUE,16346848,77929617,Jazz,57,28
+332,Un-Break My Heart,Japanese,TRUE,78620054,25183111,Latin,33,47
+333,Beggin,Czech,TRUE,36397704,11735975,Country,5,64
+334,Physical,Spanish,TRUE,48306460,12509903,Latin,28,17
+335,We Belong Together,Sundanese,FALSE,33949046,71346551,Drum & Bass,99,28
+336,Tonights The Night,Yoruba,FALSE,73865052,39381480,House,86,22
+337,Shadow Dancing,Yue,TRUE,78460040,77291036,Hip-Hop,27,38
+338,Every Breath You Take,Belarusian,TRUE,51020312,59356663,Country,27,25
+339,Dance dance,Chittagonian,TRUE,70493468,59240479,Hard Rock,97,24
+340,Demons,English,TRUE,97273471,75485521,Baroque,49,32
+341,Livin la vida loca,Urdu,FALSE,30666786,35908086,Opera,48,5
+342,Tik Tok,Portuguese,FALSE,68743995,62526362,Dubstep,83,13
+343,(Everything I Do) I Do It For You,French,TRUE,13621924,16752785,Blues,74,1
+344,Beggin,Yoruba,TRUE,27658735,97544650,Baroque,80,41
+345,Billionaire,Tamil,FALSE,22233586,53775682,Hard Rock,104,6
+346,Lets Get It On,Sundanese,FALSE,82248985,46161780,Jazz,74,40
+347,Smooth,Punjabi,TRUE,81118217,10423364,Baroque,27,28
+348,More than you know,English,TRUE,21229400,61929394,Hip-Hop,9,2
+349,Let me entertain you,Uyghur,TRUE,6408231,36458772,Techno,67,72
+350,Shadow Dancing,Wu,FALSE,62271466,68824119,Pop,59,53
+351,Move to Miami,Amharic,TRUE,97824186,20306876,Pop,46,19
+352,Cant touch this,Turkish,FALSE,4385819,54944765,House,49,49
+353,Livin la vida loca,Arabic,TRUE,49071474,9926710,Drum & Bass,18,14
+354,Getting over you,Assamese,TRUE,97869202,99440049,Drum & Bass,73,61
+355,Nobody wants to be lonely,Swedish,TRUE,29476893,61886333,Blues,88,8
+356,Dance dance,Vietnamese,TRUE,69029503,569776,Techno,44,17
+357,Por una cabeza,Swedish,TRUE,29626610,7698418,Country,65,63
+358,Pump it,Urdu,FALSE,8442348,9367962,Dubstep,28,52
+359,Hero,Chinese,TRUE,85831021,112212,Hip-Hop,3,28
+360,Billionaire,Swedish,FALSE,23568995,86966963,Opera,19,60
+361,Bailando,Hungarian,FALSE,31328243,47206763,Soul,79,67
+362,Wake me up before you gogo,Serbo-Croatian,TRUE,24772565,49471090,Reggae,2,7
+363,Nah neh nah,Sindhi,TRUE,27619720,48030313,Techno,24,39
+364,Cheri cheri lady,Japanese,TRUE,38953714,11004141,Soul,104,52
+365,Tonights The Night,Yue,TRUE,48328109,14514678,Hard Rock,23,46
+366,Hero,German,FALSE,8439753,2594528,House,94,64
+367,More than you know,Czech,TRUE,79853685,77412234,Pop,34,13
+368,Eye Of The Tiger,Japanese,TRUE,68314479,66623877,Soul,83,55
+369,Nobody wants to be lonely,Pashto,FALSE,68263011,35668912,Opera,102,50
+370,Hit the road jack,Thai,FALSE,26521321,78105379,Hip-Hop,53,67
+371,Beggin,Vietnamese,TRUE,25178458,73471408,Hip-Hop,99,23
+372,Listen to your heart,German,TRUE,35523436,28859106,Opera,101,49
+373,Hey Jude,Russian,TRUE,58632330,72661479,Hip-Hop,53,12
+374,Beggin,Uyghur,TRUE,68573985,61505337,Country,41,19
+375,Tik Tok,Portuguese,FALSE,79579508,63359378,Opera,106,59
+376,Lemon,Polish,FALSE,14598762,43166703,Techno,40,26
+377,Un-Break My Heart,Ukrainian,FALSE,73844001,372838,Pop,17,55
+378,Getting over you,Tamil,TRUE,76474301,23012435,Jazz,74,34
+379,Bette Davis Eyes,Czech,TRUE,51266618,76074986,Hip-Hop,2,69
+380,The Twist,Somali,FALSE,97754277,642501,Soul,77,25
+381,Nah neh nah,Hungarian,TRUE,98141717,22260944,Drum & Bass,27,30
+382,YMCA,Belarusian,TRUE,7191769,18367562,Jazz,60,22
+383,Call Me Maybe,Chinese,TRUE,58675855,53554826,Latin,62,75
+384,YMCA,Serbo-Croatian,FALSE,65189148,83872664,Hip-Hop,78,3
+385,Every Breath You Take,Nepali,FALSE,62576828,69244103,Reggae,25,14
+386,Nah neh nah,Bhojpuri,TRUE,72120117,72987229,Hard Rock,79,62
+387,Macarena,Portuguese,TRUE,27510337,2875235,Blues,85,56
+388,Let me entertain you,Sundanese,FALSE,31513218,95644854,Techno,60,34
+389,Rolling In The Deep,Arabic,FALSE,16637451,5929613,Pop,64,27
+390,Cheap thrills,Wu,FALSE,87751127,96855636,Latin,29,51
+391,Moves like Jagger,Vietnamese,TRUE,6369022,26207704,Dubstep,1,54
+392,Let Me Love You,Pashto,TRUE,15217904,34174497,Pop,25,1
+393,Endless Summer,Malaysian,FALSE,34692632,71378141,Techno,83,66
+394,Physical,Sundanese,TRUE,89866017,14372335,Pop,83,14
+395,Jailhouse rock,Swedish,FALSE,9617593,74238681,Opera,20,66
+396,Getting over you,Dutch,TRUE,63179152,33229833,Dubstep,2,45
+397,(Everything I Do) I Do It For You,Punjabi,TRUE,52380435,44931283,Pop,103,46
+398,Wake me up before you gogo,Uyghur,FALSE,70688880,67234936,Blues,61,25
+399,Cheri cheri lady,Fula,FALSE,65514057,77280665,Hip-Hop,28,46
+400,Its not goodbye,Hakka,FALSE,19541930,63183210,Hip-Hop,58,55
+401,I wanna dance with somebody,Mandarin,TRUE,15911404,13123912,Jazz,79,27
+402,Truly Madly Deeply,Hakka,FALSE,76337686,60874168,Opera,22,21
+403,I Gotta Feeling,Hungarian,TRUE,91831932,56344292,Soul,88,58
+404,Truly Madly Deeply,Uzbek,FALSE,92068788,95368208,House,105,72
+405,Hey Jude,Yoruba,FALSE,48710036,10770559,Dubstep,21,31
+406,More than you know,Hakka,TRUE,23786373,13112344,Opera,107,59
+407,Lean on,Swedish,FALSE,1827137,16027915,Drum & Bass,19,14
+408,How you remind me,Romanian,TRUE,95886635,98390588,Latin,43,72
+409,Rock this party,Russian,FALSE,45593479,30787589,Reggae,18,41
+410,I dont wanna missa thing,Tamil,TRUE,2996272,43140875,Techno,68,17
+411,Moves like Jagger,Korean,TRUE,25632272,52270323,Hard Rock,86,62
+412,Andalouse,Punjabi,TRUE,87522186,97201537,Jazz,46,66
+413,Un-Break My Heart,Uyghur,TRUE,8670857,17269676,Techno,51,46
+414,I wanna dance with somebody,Italian,TRUE,59579831,38744512,Hip-Hop,80,60
+415,Mack The Knife,German,FALSE,50527922,21685789,Hip-Hop,47,46
+416,You are the one that I want,Dutch,TRUE,31468480,59723483,Baroque,62,15
+417,Un-Break My Heart,Urdu,TRUE,45833344,89965538,Techno,6,48
+418,Jai HO,Uyghur,FALSE,82209855,36090435,Jazz,46,64
+419,You are the one that I want,Amharic,TRUE,76137567,44877844,Pop,71,1
+420,I wanna dance with somebody,Sindhi,FALSE,66285961,6797885,Hip-Hop,2,19
+421,Lady,Fula,TRUE,2528651,24874301,Baroque,96,4
+422,Pump it,Yoruba,FALSE,23686120,41514204,Drum & Bass,27,4
+423,Highway to hell,Ukrainian,FALSE,27339686,1092833,Latin,80,17
+424,Bailando,Azerbaijani,FALSE,82616935,70795197,Soul,61,64
+425,No One,Korean,TRUE,95650040,74455090,Dubstep,64,73
+426,I dont wanna missa thing,Romanian,FALSE,30088719,41818119,Dubstep,63,70
+427,Bette Davis Eyes,Japanese,FALSE,43904001,9573582,House,26,24
+428,Cheri cheri lady,Chittagonian,TRUE,35904762,36583701,Blues,37,58
+429,I want to break free,Turkish,TRUE,93702849,91990780,Baroque,33,51
+430,Let me entertain you,Assamese,FALSE,78231609,20679139,Dubstep,86,22
+431,Tik Tok,Punjabi,TRUE,91166781,80864207,Blues,80,17
+432,Beat it,Urdu,TRUE,50378996,8345118,Jazz,64,28
+433,Blurred Lines,Hindi,FALSE,75597554,14637538,Drum & Bass,1,41
+434,Listen to your heart,Serbo-Croatian,FALSE,99264512,89970423,Dubstep,13,17
+435,Endless Loves,Belarusian,TRUE,37091698,7141485,Dubstep,103,34
+436,Beggin,Russian,TRUE,54605922,99229167,House,64,60
+437,Cheap thrills,Korean,TRUE,37192874,72116001,Country,16,50
+438,Andalouse,Malaysian,TRUE,90668977,72307778,House,35,60
+439,Its not goodbye,Sindhi,FALSE,5088641,18058934,Jazz,32,35
+440,How Deep Is Your Love,Spanish,TRUE,9475106,95620827,Dubstep,60,53
+441,Cant touch this,Hungarian,FALSE,41997931,55661592,House,54,30
+442,(Everything I Do) I Do It For You,Fula,FALSE,61934715,1461807,Country,79,13
+443,Smooth,Azerbaijani,FALSE,91878117,73393101,Techno,67,22
+444,We Belong Together,Pashto,TRUE,45351961,20403179,Country,75,40
+445,(Everything I Do) I Do It For You,Italian,FALSE,11604430,26585990,Pop,26,40
+446,Billionaire,Turkish,TRUE,78000984,84465034,Reggae,48,62
+447,I wanna dance with somebody,Turkish,FALSE,5622705,17480677,Drum & Bass,104,58
+448,Andalouse,German,TRUE,11960386,24353084,Country,21,64
+449,These boots are made for walking,Czech,TRUE,30072892,45270916,Drum & Bass,97,63
+450,Cheri cheri lady,Portuguese,FALSE,7130888,38608877,Latin,47,39
+451,Hero,Turkish,TRUE,53011476,68087508,Drum & Bass,39,21
+452,Cheri cheri lady,Hindi,FALSE,5949360,66954315,Blues,30,40
+453,Livin la vida loca,Gan Chinese,TRUE,99350593,95373606,Hip-Hop,40,70
+454,Corazon,Hakka,TRUE,41147666,28773472,Pop,41,12
+455,Its my life,Italian,FALSE,56869740,13079251,Drum & Bass,18,5
+456,Listen to your heart,Malaysian,TRUE,61389989,48696326,Latin,18,42
+457,Sexy and I know it,Yue,FALSE,7406297,75946289,Dubstep,61,64
+458,Cant touch this,Punjabi,TRUE,14459069,24992553,Hard Rock,105,64
+459,Livin la vida loca,Uyghur,FALSE,95293013,99068428,Reggae,43,61
+460,Un-Break My Heart,Nepali,TRUE,50296280,58861107,House,47,71
+461,Getting over you,Czech,FALSE,47051116,29194274,Baroque,43,25
+462,We are young,Spanish,FALSE,14018900,90984683,Country,87,42
+463,Livin la vida loca,Italian,TRUE,51264191,55089373,Jazz,60,59
+464,Mercy ,Yue,FALSE,74119449,94418881,Country,29,42
+465,Knocking on heavens door,Yue,FALSE,40481545,1814949,Opera,60,13
+466,I want to break free,French,TRUE,71602399,44579048,Jazz,96,10
+467,Sway,French,TRUE,88569920,60482996,Pop,42,13
+468,Just one last dance,Yoruba,TRUE,49053794,37361536,Drum & Bass,42,8
+469,Le Freak,Italian,FALSE,9008283,25397745,Dubstep,58,73
+470,Un-Break My Heart,Punjabi,TRUE,59120572,40792353,Latin,36,13
+471,Familiar,Yue,TRUE,99818430,2634417,Soul,102,48
+472,Hey Jude,Greek,TRUE,86908454,45950467,Blues,85,70
+473,Billionaire,Italian,FALSE,73276952,66935900,Latin,94,61
+474,Mercy ,Sindhi,FALSE,61618273,99414176,House,82,34
+475,You Light Up My Life,Azerbaijani,FALSE,57091237,11877264,Soul,8,48
+476,Its my life,French,TRUE,65822672,28866257,Drum & Bass,54,6
+477,Tonights The Night,Nepali,TRUE,70603564,13662327,Techno,53,8
+478,Demons,Chinese,FALSE,95478195,63502851,Baroque,68,49
+479,Bette Davis Eyes,Turkish,TRUE,57288280,48681735,Jazz,87,15
+480,Alors on dance,Sindhi,FALSE,70967259,14765280,Jazz,56,57
+481,Billionaire,Turkish,TRUE,99330343,77708073,Country,34,17
+482,Flashdance...What A Feeling,Korean,TRUE,38957647,80073516,Blues,1,33
+483,Lean on,Nepali,FALSE,62028756,61358498,Pop,63,74
+484,We Belong Together,Hindi,TRUE,6784824,63311185,House,103,54
+485,Sway,Hindi,FALSE,96846534,91328727,Drum & Bass,93,59
+486,Yeah!,Hindi,FALSE,1141151,57806504,Dubstep,42,39
+487,Call Me Maybe,Hakka,FALSE,13470675,38689640,Pop,15,49
+488,Wake me up,Pashto,FALSE,94925092,98353437,Jazz,63,46
+489,Cest la vie,Persian,TRUE,96275779,73045719,Country,57,52
+490,We are young,Russian,FALSE,78258057,74797558,Techno,44,58
+491,Hey Jude,Sundanese,TRUE,10663751,40102413,Latin,36,24
+492,These boots are made for walking,Polish,TRUE,48039843,83638342,Pop,85,9
+493,Beat it,Tamil,TRUE,65743283,24657867,Dubstep,85,3
+494,Jai HO,Swedish,FALSE,33565164,63134356,Soul,96,38
+495,Uptown Funk!,Belarusian,FALSE,42665469,24423640,Opera,23,52
+496,Mack The Knife,Czech,TRUE,98765737,14130091,Country,91,18
+497,Its not goodbye,Yoruba,TRUE,17534202,8240354,House,56,2
+498,Its my life,Uyghur,FALSE,70340945,83736945,Hard Rock,74,27
+499,Strongest,Arabic,TRUE,80017070,40647146,Soul,94,58
+500,How you remind me,Yue,FALSE,39112602,16589636,House,96,72

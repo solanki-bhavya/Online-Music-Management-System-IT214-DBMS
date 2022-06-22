@@ -1,0 +1,76 @@
+Album_ID,Album_Name,Album_Rating,Profit,Artist_ID,Company_ID
+1,Shrek,9,4801,49,3
+2,Mr. Bean's Holiday,2,2925,36,4
+3,Brimstone,8,9911,104,27
+4,The Notebook,5,2626,41,8
+5,Alien,6,8692,49,33
+6,Interstellar,5,3605,82,32
+7,The Martian,1,5666,1,32
+8,Terminator I,2,6443,78,27
+9,Harry Potter and The Sorcerer's Stone,2,2285,73,13
+10,Fantastic Beasts and Where To Find Them,3,6891,22,26
+11,Avatar,1,9229,85,23
+12,Casablanca,3,9661,53,20
+13,Black Panther,4,4072,25,19
+14,Batman Begins,6,2636,33,24
+15,Iron Man ,8,9581,60,16
+16,Chronicles of Narnia,8,9334,2,34
+17,Pretty Woman,8,3459,71,29
+18,Limitless,9,2897,30,19
+19,Inside Out,5,6089,55,35
+20,The Dark Knight,2,1880,95,29
+21,Brimstone,4,3131,37,26
+22,Star Wars,2,8020,30,21
+23,Love,9,8719,102,27
+24,Harry Potter and The Chamber Of Secrets,1,3451,78,12
+25,American Pie,4,2808,39,5
+26,The Martian,2,4284,26,25
+27,Brimstone,3,3931,107,11
+28,Avatar,2,3978,79,16
+29,Rambo III,4,4768,9,27
+30,Fantastic Beasts and Where To Find Them,3,3459,83,7
+31,Casablanca,6,4988,39,10
+32,Harry Potter and The Sorcerer's Stone,6,3670,62,33
+33,Blood Diamond,8,6943,94,10
+34,Black Panther,3,7239,63,8
+35,Brimstone,9,1699,92,32
+36,Casablanca,3,9540,2,12
+37,Allied,1,8200,30,11
+38,The Dark Knight,2,4717,101,11
+39,Octav,9,1047,24,17
+40,Batman Begins,4,9426,14,17
+41,The Martian,6,2399,97,16
+42,Friends With Kids,7,8466,97,1
+43,Seven,8,1512,74,28
+44,Ice Age 2,1,5569,89,32
+45,Inside Out,8,6325,105,18
+46,Harry Potter and The Chamber Of Secrets,8,7538,41,29
+47,Octav,4,6052,73,8
+48,The Dark Tower,9,9846,89,31
+49,The Wolf Of Wallstreet,9,2496,46,33
+50,The Wolf Of Wallstreet,2,6448,62,27
+51,Black Panther,5,3571,29,25
+52,Avatar,8,5945,44,28
+53,Allied,3,6929,87,28
+54,Ice Age 1,6,8492,88,12
+55,Inside Out,4,6495,46,7
+56,American Pie,3,9075,84,18
+57,The Dark Tower,2,8838,97,12
+58,Finding Dory,5,1932,35,16
+59,Shrek,1,7690,59,4
+60,Allied,3,5419,89,9
+61,Harry Potter and The Sorcerer's Stone,1,4759,42,21
+62,Allied,2,7212,87,16
+63,The Ring,7,2629,81,35
+64,The Notebook,1,9315,66,6
+65,The Dark Tower,5,3788,101,16
+66,The Notebook,6,3500,21,25
+67,Terminator I,8,2330,60,11
+68,Alien,8,7430,53,12
+69,Thor : Ragnarok,2,7632,101,28
+70,Fantastic Beasts and Where To Find Them,8,3196,7,4
+71,Wonder Woman,1,4056,52,23
+72,The Martian,9,3278,89,19
+73,The Dark Tower,8,7303,67,3
+74,Shrek,9,2271,4,18
+75,Harry Potter and The Sorcerer's Stone,4,2111,51,13

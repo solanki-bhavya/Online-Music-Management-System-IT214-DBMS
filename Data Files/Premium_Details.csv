@@ -1,0 +1,12 @@
+Plan_ID,Plan_Name,Plan_Duration,Plan_Price
+1,Free,1000,0
+2,Monthly,36,500
+3,Bimontly,72,1000
+4,Trimonthly,108,1500
+5,Bumper,144,2000
+6,BigBumper,180,2200
+7,Supersell,216,2400
+8,ExtraSuper,252,2500
+9,Holiday,288,2600
+10,Diwalispecial,324,2800
+11,Supersellpro,360,3000
