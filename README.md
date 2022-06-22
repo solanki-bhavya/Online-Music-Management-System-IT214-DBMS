@@ -1,9 +1,25 @@
 # Online-Music-Management-System-IT214-DBMS
 
 </br>
-<h2> Academic Details:</h2>
+<h2> Project Details:</h2>
 </br>
 <table>
+<tr>
+  <td>
+    Semester
+  </td>
+  <td>
+    05
+  </td>
+</tr>
+<tr>
+  <td>
+    Year
+  </td>
+  <td>
+    2021
+  </td>
+</tr>
 <tr>
   <td>
     Course Code
@@ -82,3 +98,20 @@
   <td>201901304</td>
   <td>Dev Joshi</td>
 </tr>
+</table>
+</br>
+<h2>Project Description:</h2>
+</br>
+&emsp;This Repository contains several documents about Online Music Management System that we have created in our Database Management System course. This includes:
+</br></br>
+<ul>
+  <li> A SRS (Software Requirement Specification) Document of the system,</li>
+  <li> Noun verb analysis from problem statement,</li>
+  <li> ER diagram,</li>
+  <li> Relational Diagram,</li>
+  <li> Relational Model(Schema of all the Relations),</li>
+  <li> DDL scripts of all tables,</li>
+  <li> Normalization and Schem Refinement Document,</li>
+  <li> SQL Queries on given normalized schema, and</li>
+  <li> Final Project Document. </li>
+</ul>
